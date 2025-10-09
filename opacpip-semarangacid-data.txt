@@ -43,6 +43,7 @@
     <meta name="description" content="Temukan pengalaman bermain di situs Slot Maxwin terbaik hari ini. Nikmati slot gacor resmi dengan peluang menang tinggi dan fitur Maxwin yang mudah dicapai setiap putaran. Raih jackpot besar dari provider slot gacor online terpercaya hanya di Slot Maxwin." />
 
     <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="google-site-verification" content="DEG7yudHYxvGKzqe8By07Yyz-KJ4OfwxtCVvg9KsjTE" />
     <link rel="icon" type="image/x-icon" href="https://smheng168.com/img/icon-es.png" />
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://smheng168.com/img/icon-es.png" sizes="72x72" />
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://smheng168.com/img/icon-es.png" sizes="114x114" />
