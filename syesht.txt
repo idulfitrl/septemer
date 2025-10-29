@@ -3,7 +3,7 @@ $sitemap_name = 'web';
 $list_file = 'bray.txt';
 $max_links_per_sitemap = 10000;
 
-$domain = 'https://e-learn.poltekapp.ac.id';
+$domain = 'https://e-learning.smpn172jkt.com';
 
 $keywords = file($list_file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
